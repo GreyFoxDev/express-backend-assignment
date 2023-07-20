@@ -9,8 +9,8 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone <repository_url>
-cd my-first-project
+https://github.com/GreyFoxDev/express-backend-assignment.git
+cd express-backend-assignment
 ```
 
 2. Install the dependencies using npm or yarn:
